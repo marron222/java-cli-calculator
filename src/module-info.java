@@ -1,0 +1,2 @@
+module cli_calculator {
+}
